@@ -4,7 +4,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 <a href="https://telegram.dog/ZHarbour_Official_BoT"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/Ns-Bots/TG-File-Store)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/sigma_male007)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/sigma_male007)
 
 ![Maxx](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
